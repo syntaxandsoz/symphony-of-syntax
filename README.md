@@ -42,6 +42,6 @@ This project is part of the **Syntax & Soz** ecosystem—where we explore the so
 
 ---
 <div align="center">
-  <p>Designed & Developed by <b>Syntax & Soz</b></p>
+ <p>Designed & Developed by <b><a href="https://syntaxandsoz.github.io">Syntax & Soz</a></b></p>
   <p><i>"Because your code is alive."</i></p>
 </div>
